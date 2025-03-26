@@ -7,15 +7,7 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-<<<<<<< HEAD
-<<<<<<< HEAD
     "netlify": "npm run clean && npm run build"
-=======
-    "netlify": "npm run clean && npm run build" 
->>>>>>> 6e414b2 (second pull)
-=======
-    "netlify": "npm run clean && npm run build"
->>>>>>> ed28395 (update posts)
   },
   "hexo": {
     "version": "7.3.0"
