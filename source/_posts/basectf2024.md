@@ -20,7 +20,6 @@ cat flag
 
 ```shell
 echo "$( <flag)"#可以把flag文件打出来
-
 ```
 
 ## ret2text
