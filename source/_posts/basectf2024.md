@@ -1,5 +1,5 @@
 ---
-title: pwn(一)-2024basectf复现
+title: pwn-2024basectf复现
 cover: rgb(117,117,255)
 date: 2025-01-10 12:00:00
 categories: 技术分享
