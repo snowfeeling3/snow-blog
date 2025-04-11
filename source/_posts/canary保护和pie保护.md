@@ -48,9 +48,9 @@ tags:
 
 影响：不能轻易查看函数地址和调用内部函数或者指令了，在ida只能看见部分地址，也就是pie偏移量。需要获得pie基地址。
 
-## pie
+## pie(ASLR)
 
- PIE（Position Independent Executable，位置无关可执行文件）保护机制是一种在现代操作系统中用于增强程序安全性的技术。 
+ PIE（Position Independent Executable，位置无关可执行文件）保护机制是一种在现代操作系统中用于增强程序安全性的技术。 地址空间随机化。
 
 ### 原理：
 
